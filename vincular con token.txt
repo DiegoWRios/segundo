@@ -1,0 +1,3 @@
+git remote add origin https://TOKEN@github.com/USUARIO-QUE-CREO-EL-REPOSITORIO/NOMBRE-DEL-PROYECTO.git
+
+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
